@@ -1,6 +1,6 @@
 # S4 — Blank Coding Template
 
-Supplementary to: Holko (2026), *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis.* Frontiers in Microbiology.
+Supplementary to: Holko and Hu (2026), *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis.* Frontiers in Microbiology.
 
 Use this template to apply the structured observation instrument to a new paper. See S1 for full dimension definitions, evidence classification rules, and the emergence test.
 
