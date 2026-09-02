@@ -2,7 +2,7 @@
 
 Supplementary materials for:
 
-> Holko, M. (2026). *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis: Structured Observations Across Artificial Intelligence and the Future of Biosecurity, Volume I.* Frontiers in Microbiology. [DOI to be added upon publication]
+> Holko, M., and Hu, B. (2026). *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis: Structured Observations Across Artificial Intelligence and the Future of Biosecurity, Volume I.* Frontiers in Microbiology. [DOI to be added upon publication]
 
 ## What this is
 
