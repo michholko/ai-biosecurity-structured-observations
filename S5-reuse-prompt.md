@@ -1,6 +1,6 @@
 # S5 — Reuse Prompt
 
-Supplementary to: Holko (2026), *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis.* Frontiers in Microbiology.
+Supplementary to: Holko and Hu (2026), *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis.* Frontiers in Microbiology.
 
 This prompt can be used with an AI assistant to generate a first-pass structured observation for a new paper. **Always review and correct the AI-generated output against the primary source before using it.** AI assistants may misread, paraphrase imprecisely, or fill in dimensions from general knowledge rather than the paper's actual content. The output is a starting draft, not a citable observation.
 
