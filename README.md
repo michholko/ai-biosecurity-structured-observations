@@ -38,8 +38,8 @@ Key discipline: observe first, synthesize second. Do not name cross-paper patter
 
 **Corpus B** — five published papers selected before coding on the criterion that each contributes an observation type absent from Corpus A:
 
-- Wittmann et al. (2025). Strengthening nucleic acid biosecurity screening against generative protein design tools. *Science* 390(6768):82–87.
-- Bloomfield et al. (2024). AI and biosecurity: the need for governance. *Science* 385(6705):138–140.
+- Wittmann et al. (2025). Strengthening nucleic acid biosecurity screening against generative protein design tools. *Science* 390(6768):82–87. doi: 10.1126/science.adu8578
+- Bloomfield et al. (2024). AI and biosecurity: the need for governance. *Science* 385(6711):831–833. doi: 10.1126/science.adq1977
 - Cai, Jeyapragasan, Nedungadi, Yukich & Donoughe (2025). Agentic BAIM–LLM Evaluation (ABLE). NeurIPS 2025 Workshop.
 - Weidener et al. (2026). RefusalBench: Why Refusal Rate Misranks Frontier LLMs on Biological Research Prompts. arXiv:2605.21545.
 - Liu, Nedungadi, Cai, Kleinman, Bhasin & Donoughe (2026). ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity. arXiv:2606.11150.
@@ -52,7 +52,7 @@ This is a working instrument at an early stage. It has been applied once, by a s
 
 If you use or adapt this instrument, please cite the companion commentary:
 
-> Holko, M. (2026). *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis: Structured Observations Across Artificial Intelligence and the Future of Biosecurity, Volume I.* Frontiers in Microbiology. [DOI to be added]
+> Holko, M. and Hu, B. (2026). *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis: Structured Observations Across Artificial Intelligence and the Future of Biosecurity, Volume I.* Frontiers in Microbiology. [DOI to be added]
 
 ## Contact
 
