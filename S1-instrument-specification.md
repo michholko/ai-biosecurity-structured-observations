@@ -1,6 +1,6 @@
 # S1 — Structured Observation Instrument: Specification
 
-Supplementary to: Holko (2026), *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis.* Frontiers in Microbiology.
+Supplementary to: Holko and Hu (2026), *Configuration, Proxy Failure, and the Changing Unit of Biosecurity Analysis.* Frontiers in Microbiology.
 
 ---
 
